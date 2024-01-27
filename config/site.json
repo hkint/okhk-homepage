@@ -1,0 +1,69 @@
+{
+  "socials": [
+    {
+      "icon": "/social/email.svg",
+      "url": "mailto:i@okhk.net",
+      "title": "Email",
+      "description": ""
+    },
+    {
+      "icon": "/social/telegram.svg",
+      "url": "https://t.me/hk_message_bot",
+      "title": "Telegram",
+      "description": ""
+    }
+  ],
+  "links": [
+    {
+      "title": "HK's Home",
+      "icon": "https://www.notion.so/icons/home_blue.svg",
+      "links": [
+        {
+          "icon": "https://www.notion.so/icons/book_blue.svg",
+          "url": "https://okhk.net",
+          "title": "HK's note",
+          "description": "个人折腾/踩坑的笔记记录"
+        },
+        {
+          "icon": "https://www.notion.so/icons/bookmark_blue.svg",
+          "url": "https://memos.okhk.net",
+          "title": "HK's memos",
+          "description": "日常转发收藏及动态记录"
+        }
+
+      ]
+    }
+  ],
+  "posts": [
+    {
+      "title": "Self Hosted",
+      "icon": "",
+      "links": [
+        {
+          "icon": "https://www.notion.so/icons/fire_blue.svg",
+          "url": "https://hot.okhk.net",
+          "title": "Daily Hot",
+          "description": "每日热点榜单"
+        },
+        {
+          "icon": "https://www.notion.so/icons/search_blue.svg",
+          "url": "https://ref.okhk.net/",
+          "title": "Develop Reference",
+          "description": "开发者参考速查表"
+        },
+        {
+          "icon": "https://www.notion.so/icons/compass_blue.svg",
+          "url": "https://tool.okhk.net",
+          "title": "IT Tools",
+          "description": "开发者常用工具集"
+        },
+        {
+          "icon": "https://www.notion.so/icons/paste_blue.svg",
+          "url": "https://paste.okhk.net/",
+          "title": "Online Paste Share",
+          "description": "在线文本/图片粘贴分享"
+        }
+      ]
+    }
+  ]
+}
