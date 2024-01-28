@@ -1,16 +1,21 @@
 import { siteConfig } from "@/config/site"
 
-export default function getNavLinks() {
-  return siteConfig.navLinks
+export default function getInfo() {
+  return siteConfig.info
+}
+
+export interface Intro {
+  name: string
+  description: string
 }
 
 export type CategoryWithLinks = {
   icon: string
   title: string
-  links: NavItems[]
+  links: LinkItems[]
 }
 
-export interface NavItems {
+export interface LinkItems {
   icon: string
   url: string
   title: string

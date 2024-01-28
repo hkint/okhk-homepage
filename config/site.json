@@ -1,4 +1,8 @@
 {
+  "intro": {
+    "name": "HK",
+    "description": "A self-taught passionate devops developer from China"
+  },
   "socials": [
     {
       "icon": "/social/email.svg",

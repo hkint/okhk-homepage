@@ -1,12 +1,12 @@
 import Image from "next/image"
 import Link from "next/link"
 
-import { CategoryWithLinks, NavItems } from "@/app/links"
+import { CategoryWithLinks, LinkItems } from "@/app/links"
 
-export function LinkItem({ link }: { link: NavItems }) {
+export function LinkItem({ link }: { link: LinkItems }) {
   return (
     <Link href={link.url} target="_blank">
-      <div className="relative mb-6 flex min-h-[150px] min-w-0 cursor-pointer flex-col break-words rounded-3xl border border-gray-200 bg-gradient-to-br from-blue-100 to-blue-200 p-4 shadow-md transition-all hover:-translate-y-1 hover:scale-105 hover:bg-border hover:shadow-lg xl:mb-0">
+      <div className="relative mb-6 flex min-h-[160px] min-w-0 cursor-pointer flex-col break-words rounded-3xl border border-gray-200 p-4 shadow-md transition-all hover:-translate-y-1 hover:scale-105 hover:bg-border hover:shadow-lg xl:mb-0">
         <div className="flex items-center">
           <div className="mr-3 flex size-10 overflow-hidden rounded-full">
             {link.icon ? (
@@ -36,10 +36,10 @@ export function LinkItem({ link }: { link: NavItems }) {
   )
 }
 
-export function PostItem({ link }: { link: NavItems }) {
+export function PostItem({ link }: { link: LinkItems }) {
   return (
     <Link href={link.url} target="_blank">
-      <div className="relative mb-6 flex min-h-[120px] min-w-0 cursor-pointer flex-col break-words rounded-3xl border border-gray-200 bg-gradient-to-br from-gray-100 to-gray-200 p-4 shadow-md transition-all hover:-translate-y-1 hover:scale-105 hover:bg-border hover:shadow-lg xl:mb-0">
+      <div className="relative mb-6 flex min-h-[150px] min-w-0 cursor-pointer flex-col break-words rounded-3xl border border-gray-200 p-4 shadow-md transition-all hover:-translate-y-1 hover:scale-105 hover:bg-border hover:shadow-lg xl:mb-0">
         <div className="flex items-center">
           <div className="mr-3 flex size-10 overflow-hidden rounded-full">
             {link.icon ? (
