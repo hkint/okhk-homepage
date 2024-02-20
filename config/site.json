@@ -15,6 +15,12 @@
       "url": "https://t.me/hk_message_bot",
       "title": "Telegram",
       "description": ""
+    },
+    {
+      "icon": "/social/github.svg",
+      "url": "https://github.com/hkint",
+      "title": "GitHub",
+      "description": ""
     }
   ],
   "links": [
