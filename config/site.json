@@ -1,7 +1,7 @@
 {
   "intro": {
     "name": "HK",
-    "description": "A self-taught passionate devops developer from China"
+    "description": "A self-taught passionate developer from China"
   },
   "socials": [
     {
@@ -57,7 +57,7 @@
         },
         {
           "icon": "https://www.notion.so/icons/search_blue.svg",
-          "url": "https://ref.okhk.net/",
+          "url": "https://ref.okhk.net",
           "title": "Develop Reference",
           "description": "开发者参考速查表"
         },
@@ -69,7 +69,7 @@
         },
         {
           "icon": "https://www.notion.so/icons/paste_blue.svg",
-          "url": "https://paste.okhk.net/",
+          "url": "https://paste.okhk.net",
           "title": "Online Paste Share",
           "description": "在线文本/图片粘贴分享"
         }
