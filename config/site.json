@@ -1,7 +1,7 @@
 {
   "intro": {
     "name": "HK",
-    "description": "A self-taught passionate developer from China"
+    "description": "A self-taught passionate developer"
   },
   "socials": [
     {
@@ -32,13 +32,13 @@
           "icon": "https://www.notion.so/icons/book_blue.svg",
           "url": "https://okhk.net",
           "title": "HK's note",
-          "description": "个人折腾/踩坑的笔记记录"
+          "description": "个人笔记记录"
         },
         {
           "icon": "https://www.notion.so/icons/bookmark_blue.svg",
           "url": "https://memos.okhk.net",
           "title": "HK's memos",
-          "description": "日常转发收藏及动态记录"
+          "description": "日常转发及动态"
         }
 
       ]
@@ -46,7 +46,7 @@
   ],
   "posts": [
     {
-      "title": "Self Hosted",
+      "title": "Hello world",
       "icon": "",
       "links": [
         {
@@ -65,13 +65,13 @@
           "icon": "https://www.notion.so/icons/compass_blue.svg",
           "url": "https://tool.okhk.net",
           "title": "IT Tools",
-          "description": "开发者常用工具集"
+          "description": "开发者常用工具"
         },
         {
           "icon": "https://www.notion.so/icons/paste_blue.svg",
           "url": "https://paste.okhk.net",
           "title": "Online Paste Share",
-          "description": "在线文本/图片粘贴分享"
+          "description": "文本/图片粘贴分享"
         }
       ]
     }
