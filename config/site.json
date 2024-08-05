@@ -39,6 +39,12 @@
           "url": "https://memos.okhk.net",
           "title": "HK's memos",
           "description": "动态记录 & 转发分享"
+        },
+        {
+          "icon": "https://www.notion.so/icons/cloud_blue.svg",
+          "url": "https://tg.okhk.net",
+          "title": "OKHK Channel",
+          "description": "Telegram Channel"
         }
 
       ]
