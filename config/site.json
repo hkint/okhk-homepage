@@ -45,15 +45,13 @@
           "url": "https://memos.okhk.net",
           "title": "HK's memos",
           "description": "动态记录 & 转发分享"
-        }
-      ]
-    }
-  ],
-  "posts": [
-    {
-      "title": "OKHK",
-      "icon": "https://www.notion.so/icons/home_blue.svg",
-      "links": [
+        },
+        {
+          "icon": "https://www.notion.so/icons/circle_blue.svg",
+          "url": "https://moments.okhk.net",
+          "title": "OkHK moments",
+          "description": "仅作为 Demo 查看"
+        },
         {
           "icon": "https://www.notion.so/icons/robot_blue.svg",
           "url": "https://chat.okhk.net",
@@ -85,10 +83,10 @@
           "description": "开发者参考速查表"
         },
         {
-          "icon": "https://www.notion.so/icons/paste_blue.svg",
-          "url": "https://paste.okhk.net",
-          "title": "Online Paste Share",
-          "description": "文本/图片粘贴分享"
+          "icon": "https://www.notion.so/icons/share_blue.svg",
+          "url": "https://share.okhk.net",
+          "title": "OKHK Share",
+          "description": "在线分享"
         },
         {
           "icon": "https://www.notion.so/icons/fire_blue.svg",
@@ -98,5 +96,6 @@
         }
       ]
     }
-  ]
+  ],
+  "posts": [ ]
 }
