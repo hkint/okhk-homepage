@@ -1,101 +1,101 @@
 {
   "intro": {
-    "name": "HK",
-    "description": "A self-taught passionate developer"
+    "description": "A self-taught passionate developer",
+    "name": "HK"
   },
-  "socials": [
-    {
-      "icon": "/social/email.svg",
-      "url": "mailto:i@okhk.net",
-      "title": "Email",
-      "description": ""
-    },
-    {
-      "icon": "/social/telegram.svg",
-      "url": "https://t.me/iokhk",
-      "title": "Telegram",
-      "description": ""
-    },
-    {
-      "icon": "/social/github.svg",
-      "url": "https://github.com/hkint",
-      "title": "GitHub",
-      "description": ""
-    }
-  ],
   "links": [
     {
-      "title": "HK's Home",
       "icon": "https://www.notion.so/icons/home_blue.svg",
       "links": [
         {
+          "description": "一些笔记 & 简单归档",
           "icon": "https://www.notion.so/icons/book_blue.svg",
-          "url": "https://okhk.net",
           "title": "HK's note",
-          "description": "一些笔记 & 简单归档"
+          "url": "https://okhk.net"
         },
         {
+          "description": "Telegram 频道",
           "icon": "https://www.notion.so/icons/cloud_blue.svg",
-          "url": "https://tg.okhk.net",
           "title": "OKHK Channel",
-          "description": "Telegram 频道"
+          "url": "https://tg.okhk.net"
         },
         {
+          "description": "动态记录 & 转发分享",
           "icon": "https://www.notion.so/icons/bookmark_blue.svg",
-          "url": "https://memos.okhk.net",
           "title": "HK's memos",
-          "description": "动态记录 & 转发分享"
+          "url": "https://memos.okhk.net"
         },
         {
-          "icon": "https://www.notion.so/icons/circle_blue.svg",
-          "url": "https://moments.okhk.net",
-          "title": "OkHK moments",
-          "description": "仅作为 Demo 查看"
-        },
-        {
-          "icon": "https://www.notion.so/icons/robot_blue.svg",
-          "url": "https://chat.okhk.net",
-          "title": "Open WebUI",
-          "description": "AI 大语言模型对话"
-        },
-        {
-          "icon": "https://www.notion.so/icons/robot_blue.svg",
-          "url": "https://lobe.okhk.net",
-          "title": "Lobe Chat",
-          "description": "AI 大语言模型对话"
-        },
-        {
-          "icon": "https://www.notion.so/icons/robot_blue.svg",
-          "url": "https://next.okhk.net",
-          "title": "Next Chat",
-          "description": "AI 大语言模型对话"
-        },
-        {
+          "description": "开发者常用工具",
           "icon": "https://www.notion.so/icons/compass_blue.svg",
-          "url": "https://tool.okhk.net",
           "title": "IT Tools",
-          "description": "开发者常用工具"
+          "url": "https://tool.okhk.net"
         },
         {
-          "icon": "https://www.notion.so/icons/search_blue.svg",
-          "url": "https://ref.okhk.net",
-          "title": "Develop Reference",
-          "description": "开发者参考速查表"
-        },
-        {
-          "icon": "https://www.notion.so/icons/share_blue.svg",
-          "url": "https://share.okhk.net",
-          "title": "OKHK Share",
-          "description": "在线分享"
-        },
-        {
+          "description": "每日热点榜单",
           "icon": "https://www.notion.so/icons/fire_blue.svg",
-          "url": "https://hot.okhk.net",
           "title": "Daily Hot",
-          "description": "每日热点榜单"
+          "url": "https://hot.okhk.net"
+        },
+        {
+          "description": "真实地址信息生成",
+          "icon": "https://www.notion.so/icons/location_blue.svg",
+          "title": "Address Generator",
+          "url": "https://addr.okhk.net"
+        },
+        {
+          "description": "AI 大语言模型对话 UI",
+          "icon": "https://www.notion.so/icons/robot_blue.svg",
+          "title": "Open WebUI",
+          "url": "https://chat.okhk.net"
+        },
+        {
+          "description": "AI 大语言模型对话 UI",
+          "icon": "https://www.notion.so/icons/robot_blue.svg",
+          "title": "Lobe Chat",
+          "url": "https://lobe.okhk.net"
+        },
+        {
+          "description": "AI 大语言模型对话 UI",
+          "icon": "https://www.notion.so/icons/robot_blue.svg",
+          "title": "Next Chat",
+          "url": "https://next.okhk.net"
+        },
+        {
+          "description": "开发者参考速查表",
+          "icon": "https://www.notion.so/icons/search_blue.svg",
+          "title": "Develop Reference",
+          "url": "https://ref.okhk.net"
+        },
+        {
+          "description": "在线分享",
+          "icon": "https://www.notion.so/icons/share_blue.svg",
+          "title": "OKHK Share",
+          "url": "https://share.okhk.net"
+        },
+        {
+          "description": "网页朋友圈 | 仅部署 Demo",
+          "icon": "https://www.notion.so/icons/circle_blue.svg",
+          "title": "OkHK moments",
+          "url": "https://moments.okhk.net"
         }
-      ]
+      ],
+      "title": "HK's Home"
     }
   ],
-  "posts": [ ]
+  "posts": [],
+  "socials": [
+    {
+      "description": "",
+      "icon": "/social/email.svg",
+      "title": "Email",
+      "url": "mailto:i@okhk.net"
+    },
+    {
+      "description": "",
+      "icon": "/social/telegram.svg",
+      "title": "Telegram",
+      "url": "https://t.me/iokhk"
+    }
+  ]
 }
